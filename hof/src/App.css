@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+div{
+  margin: 20px;
+}
+
+ul{
+ list-style-type: none; 
+ border: 1.5px solid black;
+ color:rgb(69, 100, 200);
+}
